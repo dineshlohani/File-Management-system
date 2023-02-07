@@ -1,0 +1,8 @@
+﻿#accordion1 div{ font-size: 120%; font-weight: normal; color:#fff; cursor: pointer; padding: .4em 1em; background: #ee1e21; border-radius: 4px; margin-bottom: .2em   }
+
+#accordion1 ul{ list-style-type: none; padding-left: 0 }
+#accordion1 ul li a{ color: #000; text-decoration: none; }
+#accordion1 ul li a:hover{ color: #fff; text-decoration: none; }
+#accordion1 ul li li{ background: url(arrow.png) no-repeat 0 .5em ; margin-left: .7em  }
+#accordion1 ul li li a{ color: #000; text-decoration: none; line-height: 1.9em; display: block; padding-left: .9em }
+#accordion1 ul li li a:hover{ color: #333; text-decoration: none; }
